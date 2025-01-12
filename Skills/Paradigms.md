@@ -2,26 +2,26 @@
 
 - Theory
   - Procedural programming u
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Imperative programming u
+  - Structured programming u
+  - Non-structured programming k
   - Functional programming u
-  - Prototype-based programming
+  - Prototype-based programming h
   - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming k
+  - Parallel programming h
+  - Reactive programming h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming u
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box u
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
@@ -58,14 +58,14 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) k
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton u
-  - Factory Method
+  - Factory Method k
   - Abstract Factory
   - Adapter
   - Observer

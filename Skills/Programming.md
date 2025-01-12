@@ -6,11 +6,11 @@
   - Subject domain
   - Algorithm u
   - Syntax u
-  - Semantics
-  - Abstraction
-  - Paradigm
+  - Semantics u
+  - Abstraction u
+  - Paradigm u
   - Programm u
-  - Programming paradigm
+  - Programming paradigm u
   - Programming language u
   - Contract
   - Module u
@@ -24,13 +24,13 @@
   - Machine code
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition u
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse k
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
   - Value u
   - Identifier u
@@ -38,13 +38,13 @@
   - Constant u
   - Scalar u
   - Literal u
-  - Expression
+  - Expression u
   - Heap
   - Function u
   - Procedure u
   - Method u
   - Class u
-  - Prototype
+  - Prototype k
   - Event u
   - Type u
   - Flag
@@ -57,23 +57,23 @@
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions h
-  - Coding conventions h
-  - Camel case h
-  - Snake case h
-  - Kebab case h
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case u
   - Trailing commas
-  - Return early h
-  - Fail-fast h
+  - Return early u
+  - Fail-fast u
 - Types
-  - Primitive types h
-  - Reference types h
+  - Primitive types k
+  - Reference types k
   - Type systems
-  - Strong typing h
-  - Weak typing h
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing k
+  - Weak typing k
+  - Duck typing k
+  - Static typing k
+  - Dynamic typing k
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,23 +81,23 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature h
+  - Signature k
   - Argument u
   - Parameter u
-  - Pure function h
-  - Lambda expression h
-  - Side effects h
-  - Closure
+  - Pure function k
+  - Lambda expression u
+  - Side effects u
+  - Closure u
   - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Currying k
+  - Higher order u
+  - Recursion u
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
+  - Callback u
+  - Listener u
+  - Composition k
+  - Pipe k
+  - Memoize k
   - Wrapper
   - Functor
   - Monad
@@ -111,32 +111,32 @@
   - Enum
   - Instance u
   - Object u
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Collection k
+  - Set k
+  - Hash table c
+  - Linked list c
+  - Doubly list c
   - Unrolled list
-  - Circular list
+  - Circular list e
   - Queue
   - Stack
   - Deque
-  - Tree
-  - Graph
+  - Tree h
+  - Graph h
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
+  - IPv4 k
+  - IPv6 k
   - NAT
   - URL u
   - URN
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter k
   - Polyfill
   - Interpreter
   - Linker
@@ -159,13 +159,13 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring h
-  - Code review h
-  - Exception h
+  - Garbage collection h
+  - Refactoring u
+  - Code review u
+  - Exception u
   - Unittesting
-  - git h
-  - Github h
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -186,7 +186,7 @@
   - Duplicate code u
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops k
   - Long method/function/procedure u
   - Long inheritance k
   - Large class/file k
@@ -228,8 +228,8 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 k
+  - ECMA k
   - ICANN
   - ISO
   - MIME

@@ -6,28 +6,28 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules k
+  - ECMAScript modules k
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -68,16 +68,16 @@
   - Fetch API
   - IncomingMessage
   - HTTP(S) u
-  - TCP/SSL
+  - TCP/SSL k
   - UDP
   - TLS
-  - Websocket
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing h
   - DoS
   - DDoS
   - XSS
@@ -90,9 +90,9 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging h
   - Application configuring
-  - Testing
+  - Testing h
   - CI/CD
   - Readable
   - Writable
@@ -103,7 +103,7 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping

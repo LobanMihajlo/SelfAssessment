@@ -4,9 +4,9 @@
   - Modularity u
   - Components u
   - Directories u
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP h
+  - SOLID h
+  - GoF patterns h
   - CQS
   - Leaking abstractions
   - Multiparadigm code u
@@ -26,13 +26,13 @@
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
+  - System vs applied code h
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) h
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) h
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub

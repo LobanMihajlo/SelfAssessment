@@ -5,44 +5,44 @@
   - `Function` u
   - `Boolean` u
   - `Number` u
-  - `BigInt`
+  - `BigInt` k
   - `String` u
-  - `Symbol`
+  - `Symbol` k
   - `Infinity` u
   - `NaN` u
   - `undefined` u
   - `null` u
   - `this` u
-  - `instanceof`
-  - `...spread`
-  - `...rest`
+  - `instanceof` k
+  - `...spread` u
+  - `...rest` u
   - `typeof` u
-  - Destructuring
-  - Generators
-  - Iterators
+  - Destructuring u
+  - Generators k
+  - Iterators k
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining u
   - Optional chaining
-  - IIFE
+  - IIFE k
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
+  - `global` h
+  - `globalThis` h
+  - `window` h
   - Getters and setters u
-  - `__proto__`
-  - `prototype`
+  - `__proto__` h
+  - `prototype` h
   - Equality operators u
   - Logical operators u
   - Logical Assignment
-  - Bitwise operators
+  - Bitwise operators h
   - Ternary operator u
-  - `void`
-  - `yield`
-  - `await`
+  - `void` k
+  - `yield` h
+  - `await` u
   - Template literal
-  - Strict mode
-  - Hoisting
+  - Strict mode u
+  - Hoisting k
   - `delete` u
   - `in`
   - `super` h
@@ -63,16 +63,16 @@
   - `while` u
   - `do..while` u
   - `for` u
-  - `for..in`
-  - `for..of`
+  - `for..in` u
+  - `for..of` u
   - `for await`
-  - `throw`
+  - `throw` u
   - `break` u
   - `continue` u
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
+  - `import` u
+  - `export` u
+  - `label` u
+  - `try..catch` u
   - `switch` u
   - `class` u
   - `extends` u
@@ -80,43 +80,43 @@
   - `new` u
 - Functions
   - Arrow function u
-  - Async function
+  - Async function u
   - Function declaration u
   - Function expression u
   - Default parameters u
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call` k
+  - `Function.prototype.bind` k
+  - `Function.prototype.apply` k
   - `return` u
 - Data structures
   - `Array` u
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Map` k
+  - `Set` k
+  - `WeakMap` k
+  - `WeakSet` k
   - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - Mixins k
+  - `Object.assign` k
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
+  - `RegExp` k
   - `Date` u
   - `Math` u
   - `Reflect`
-  - `Error`
+  - `Error` u
   - `Atomics`
-  - `JSON`
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` u
   - `console` u
-  - Timers
+  - Timers u
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN k
+  - V8 k
+  - Node.js k
+  - npm u
+  - prettier u
+  - MDN u
   - TC39
