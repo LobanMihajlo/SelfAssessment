@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 👂 heard
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -17,22 +17,22 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -41,13 +41,13 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -59,17 +59,17 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers: 🖐️ used
+  - `setImmediate`: 🎓 known
+  - `nextTick`: 🎓 known
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library: 👂 heard
   - RxJS library
   - Promise.all
   - Promise.allSettled

@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
-  - Multiparadigm code u
+  - Multiparadigm code: 🖐️ used
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,21 +18,21 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
+  - System vs applied code: 👂 heard
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 👂 heard
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
