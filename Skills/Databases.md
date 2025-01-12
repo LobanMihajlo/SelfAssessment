@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery u
+  - Backup and recovery: 🖐️ used
   - Database scalability
-  - Relational databases u
+  - Relational databases: 🖐️ used
   - Key-value store
   - Tuple store
   - Graph databases
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys u
-  - Foreign keys k
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🎓 known
   - Transactions
   - Views
   - Subqueries
@@ -36,14 +36,14 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` h
-  - `GROUP BY` h
+  - `ORDER BY`: 👂 heard
+  - `GROUP BY`: 👂 heard
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` k
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL u
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
