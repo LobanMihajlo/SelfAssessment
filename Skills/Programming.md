@@ -1,23 +1,23 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model u
+  - Modeling u
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Module u
+  - Library u
+  - Package u
+  - Component u
+  - Framework u
   - Platform
   - Source code
   - Object code
@@ -32,45 +32,45 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
   - Expression
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
   - Prototype
-  - Event
-  - Type
+  - Event u
+  - Type u
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions h
+  - Coding conventions h
+  - Camel case h
+  - Snake case h
+  - Kebab case h
   - Trailing commas
-  - Return early
-  - Fail-fast
+  - Return early h
+  - Fail-fast h
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types h
+  - Reference types h
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing h
+  - Weak typing h
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -81,12 +81,12 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature h
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression h
+  - Side effects h
   - Closure
   - Partial application
   - Currying
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
-  - Instance
-  - Object
+  - Instance u
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -135,14 +135,14 @@
   - DNS
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -160,50 +160,50 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring h
+  - Code review h
+  - Exception h
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github h
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers u
+  - Hard code u
+  - Soft code u
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti u
+  - Silver bullet u
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code u
+  - Unreachable code u
+  - Duplicate code u
   - Premature optimization
   - Micro-optimization
   - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Long method/function/procedure u
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
-  - Data clump
+  - Data clump k
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux u
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII u
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG

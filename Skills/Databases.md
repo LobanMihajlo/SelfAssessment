@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery u
   - Database scalability
-  - Relational databases
+  - Relational databases u
   - Key-value store
   - Tuple store
   - Graph databases
@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys u
+  - Foreign keys k
   - Transactions
   - Views
   - Subqueries
@@ -36,14 +36,14 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` h
+  - `GROUP BY` h
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE` u
+  - `ALTER TABLE` u
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` k
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis

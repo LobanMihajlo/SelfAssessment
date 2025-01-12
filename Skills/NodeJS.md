@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) u
   - TCP/SSL
   - UDP
   - TLS

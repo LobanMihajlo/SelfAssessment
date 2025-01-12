@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity u
+  - Components u
+  - Directories u
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code u
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
